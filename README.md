@@ -59,9 +59,3 @@ The application supports various message types between Flutter and Sencha:
 
 ## Contributing
 Contributions are welcome! Please read our contributing guidelines and submit pull requests to our GitHub repository.
-
-## License
-[Add your chosen license here]
-
-## Contact
-[Your contact information]
